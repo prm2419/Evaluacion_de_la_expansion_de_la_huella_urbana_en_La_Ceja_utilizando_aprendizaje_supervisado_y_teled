@@ -44,5 +44,5 @@ if __name__ == "__main__":
     base_dir = "./carpeta_combinado"   # Carpeta que contiene subcarpetas YYYY-MM-DD
     out_dir  = "./carpeta_stacks"      # Carpeta donde se guardarán los stacks
 
-    date = "2019-01-04" # Se corre el código a una sola fecha
+    date = "2023-08-26" # Se corre el código a una sola fecha
     make_index_stack(date, base_dir, out_dir)
