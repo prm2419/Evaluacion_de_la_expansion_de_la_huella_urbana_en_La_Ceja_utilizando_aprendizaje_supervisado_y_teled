@@ -1,4 +1,4 @@
-# Spectral-Index-Evaluation-of-Land-Use-Compliance-with-the-PBOT-in-La-Ceja
+# Evaluación de la expansión de la huella urbana en La Ceja utilizando aprendizaje supervisado y teledetección multiespectral
 This project aims to analyze and quantify the urban expansion in La Ceja, a municipality located in Eastern Antioquia (Colombia), between the years 2018 and 2025. Using Sentinel-2 multispectral satellite imagery, we calculate spectral indices such as NDVI (Normalized Difference Vegetation Index) and NDBI (Normalized Difference Built-up Index) to detect changes in vegetation cover and built-up areas.
 
 These spatial transformations are then compared with the urban growth zones defined in the Municipal Land Use Plan (PBOT) established by Agreement 001 of 2018. The overlay between remote sensing analysis and official planning boundaries allows us to assess whether recent urban development has occurred within legally designated areas or has exceeded regulated expansion zones.
